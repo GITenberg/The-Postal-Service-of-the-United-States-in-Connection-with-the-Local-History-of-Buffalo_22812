@@ -1,0 +1,31 @@
+_repo: The-Postal-Service-of-the-United-States-in-Connection-with-the-Local-History-of-Buffalo_22812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hall, Nathan Kelsey
+    alias: Hall, N. K. (Nathan Kelsey)
+    birthdate: 1810
+    deathdate: 1874
+    gutenberg_agent_id: '25554'
+    url: http://www.gutenberg.org/2009/agents/25554
+  - agent_name: Blossom, Thomas
+    gutenberg_agent_id: '25555'
+    url: http://www.gutenberg.org/2009/agents/25555
+description: ''
+gutenberg_issued: '2007-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- New York (State) -- Buffalo'
+- !lcc 'F106'
+title: The Postal Service of the United States in Connection with the Local History
+  of Buffalo
+url: http://www.gutenberg.org/ebooks/22812
